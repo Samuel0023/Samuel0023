@@ -1,6 +1,6 @@
 ## Hi, I'm Sams 👋🏾👨🏽‍💻
 
-<img align='right' src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/VFMUIM4v1jpIf2zex7/giphy.gif" width="230">
 <p><em>i'm a Systems engineering student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
