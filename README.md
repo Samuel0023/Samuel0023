@@ -24,15 +24,16 @@ const sams= {
     code: ["Javascript", "Typescript", "Java", "Python", "C", "Haskell"],
     askMeAbout: ["web dev", "tech", "design systems", "math"],
     technologies: {
-        frontEnd: {
-            js: ["Angular","jQuery"],
-            python:["Django"],
-            css: ["bootstrap"]
-        },
-            js: ["node", "express"]
-        },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "design"]
+            frontEnd: {
+                js: ["Angular","jQuery"],
+                python:["Django"],
+                css: ["bootstrap"]
+            },
+            backEnd:{
+                js: ["node", "express"]
+            },
+            databases: ["mongo", "MySql"],
+            misc: ["Firebase", "Socket.IO", "design"]
     },
     architecture: ["MVC", "Rest", "Serverless Architecture","Single Page Aplication"],
 };
