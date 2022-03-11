@@ -4,7 +4,6 @@
 <p><em>i'm a Systems engineering student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/EnriqueVeizaga?label=Follow)
 [![Linkedin: SamuelOntiveros](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelOnti/)](https://www.linkedin.com/in/samuelOnti/)
 ![GitHub followers](https://img.shields.io/github/followers/Samuel0023?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Samuel0023.Samuel0023)
