@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samuel0023&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sams's GitHub Stats">
-
+<div align = "center">
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Samuel0023&hide=contribs&include_all_commits=true&show_icons=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sams's GitHub Stats">
+    <img width="34%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel0023&layout=compact&langs_count=8&theme=shades-of-purple&icon_color=fad000"/>
+</div>
 ⭐️ From [Samuel0023](https://github.com/Samuel0023)
