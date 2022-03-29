@@ -15,6 +15,7 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [enrissmuelo@gmail.com](mailto:enrissmuelo@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/18EsmrqZ0aa3nmgef0w6hMnXgfLHxAx-f/view?usp=sharing) to get more info.
+- 🔭 See my [Portfolio](https://portfolio-samuel0023.vercel.app) to see my projects.
 - 🌱 I’m currently exploring Python with Data Science. 
 
 **Languages and Tools:**  
