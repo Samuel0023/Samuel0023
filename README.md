@@ -26,17 +26,17 @@ const sams= {
     askMeAbout: ["web dev", "tech", "design systems", "math"],
     technologies: {
             frontEnd: {
-                js: ["Angular","jQuery"],
+                js: ["Angular","jQuery","React"],
                 python:["Django"],
                 css: ["bootstrap"]
             },
             backEnd:{
-                js: ["node", "express"]
+                js: ["node", "express", "nest.js"]
             },
             databases: ["mongo", "MySql"],
             misc: ["Firebase", "Socket.IO", "design"]
     },
-    architecture: ["MVC", "Rest", "Serverless Architecture","Single Page Aplication"],
+    architecture: ["MVC", "SOLID", "Rest", "Serverless Architecture","Single Page Aplication"],
 };
 ```
 <!--
