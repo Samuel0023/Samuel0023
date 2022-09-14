@@ -28,12 +28,15 @@ const sams= {
             frontEnd: {
                 js: ["Angular","jQuery","React"],
                 python:["Django"],
-                css: ["bootstrap"]
+                css: ["bootstrap"],
+                html: ["HTML5"]
             },
             backEnd:{
-                js: ["node", "express", "nest.js"]
+                js: ["node", "express", "nest.js"],
+                java: ["spark", "spring"]
             },
-            databases: ["mongo", "MySql"],
+            databases: ["MongoDB", "MySql", "PostGreSQL"],
+            orm: ["Hibernate", "Sequelize"],
             misc: ["Firebase", "Socket.IO", "design"]
     },
     architecture: ["MVC", "SOLID", "Rest", "Serverless Architecture","Single Page Aplication"],
